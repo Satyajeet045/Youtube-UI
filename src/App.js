@@ -5,9 +5,7 @@ import { Navbar } from "./components/Navbar";
 import { darkTheme, lightTheme } from "./utils/Theme";
 import {
   BrowserRouter as Router,
-  Switch,
   Route,
-  Link,
   BrowserRouter,
   Routes
 } from "react-router-dom";
